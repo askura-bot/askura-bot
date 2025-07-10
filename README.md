@@ -57,7 +57,7 @@ When I'm not coding, you might find me exploring new tech trends, tinkering with
 
 ## 👾 Pac-Man Contribution Graph
 
-![Pac-Man graph dark](https://github.com/askura-bot/askura-bot/blob/output/pacman-contribution-graph-dark.svg)
+![pacman](https://github.com/askura-bot/askura-bot/blob/output/pacman-contribution-graph.svg)
 
 ---
 
