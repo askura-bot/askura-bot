@@ -51,7 +51,7 @@ When I'm not coding, you might find me exploring new tech trends, tinkering with
 
 ## 🐍 Snake Contribution Graph
 
-
+![snake gif](https://github.com/askura-bot/askura-bot/blob/output/github-snake-dark.svg)
 
 ---
 
