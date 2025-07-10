@@ -55,11 +55,6 @@ When I'm not coding, you might find me exploring new tech trends, tinkering with
 
 ---
 
-## 👾 Pac-Man Contribution Graph
-
-
----
-
 ## 📫 Let's Connect
 
 - 📧 [Email: asrikurniaramadhani48@gmail.com](asrikurniaramadhani48@gmail.com)  
